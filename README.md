@@ -1,6 +1,6 @@
 # example
 <div align="center">
-    <img src="https://imgur.com/XS0ohN7"><br><br>
+    <img src="https://i.imgur.com/XS0ohN7.png"><br><br>
 
 ---
 
