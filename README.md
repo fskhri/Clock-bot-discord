@@ -1,6 +1,8 @@
-#example
-https://cdn.discordapp.com/attachments/713920919302701144/778622066894438410/unknown.png
+# example
+<div align="center">
+    <img src="https://imgur.com/XS0ohN7"><br><br>
 
+---
 
 
 
