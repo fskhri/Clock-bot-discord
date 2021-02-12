@@ -2,9 +2,6 @@
 <img src="https://prtimes.jp/i/16356/2133/origin/d16356-2133-487276-0.png" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Clock-bot-discord" src="https://img.shields.io/badge/Discord Bot Clock-Blue?colorA=%#0000FF&colorB=%#0000FF&style=for-the-badge"></a>
-</p>
-<p align="center">
 <a href="https://github.com/fskhrijuanda"><img title="Author" src="https://img.shields.io/badge/badge/Author-Fakhri-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
